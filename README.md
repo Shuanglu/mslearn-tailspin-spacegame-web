@@ -1,4 +1,5 @@
 
+[![Build Status](https://dev.azure.com/shuanglu19930687/test/_apis/build/status/Shuanglu.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/shuanglu19930687/test/_build/latest?definitionId=1&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
